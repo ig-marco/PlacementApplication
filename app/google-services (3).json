@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047812682908",
+    "firebase_url": "https://placementapp-823dd.firebaseio.com",
+    "project_id": "placementapp-823dd",
+    "storage_bucket": "placementapp-823dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047812682908:android:403f545677016dab982959",
+        "android_client_info": {
+          "package_name": "com.example.placementapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047812682908-rpa7d9eb5kammh75jhv45ml2kk6vnsjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnNwRU9-Q3Oxy3-sZSmf6hJUuW-UVgR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047812682908-rpa7d9eb5kammh75jhv45ml2kk6vnsjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
